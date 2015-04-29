@@ -8,7 +8,7 @@
 
 ### Web development or MVC
 
-- [AngularJS](https://angularjs.org/)
-- [ReactJS](https://github.com/facebook/react)
-- [BackboneJS](http://backbonejs.org/)
-- [EmberJS](http://emberjs.com/)
+- [Angular](https://angularjs.org/)
+- [React](https://github.com/facebook/react)
+- [Backbone](http://backbonejs.org/)
+- [Ember](http://emberjs.com/)
