@@ -8,7 +8,7 @@
 
 ### Web development or MVC
 
-- [Angular](https://angularjs.org/)
-- [React](https://github.com/facebook/react)
-- [Backbone](http://backbonejs.org/)
-- [Ember](http://emberjs.com/)
+- [Angular](https://angularjs.org/) - HTML enhanced for web apps!
+- [React](https://github.com/facebook/react) - A JavaScript Library For Building User Interfaces
+- [Backbone](http://backbonejs.org/) - Backbone.js gives structure to web applications
+- [Ember](http://emberjs.com/) - A framework for creating ambitious web applications.
