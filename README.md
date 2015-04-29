@@ -3,12 +3,12 @@
 
 ## Framework or Library
 
-[1. Web development](#web-development-or-mvc)
+- [Web development](#web-development-or-mvc)
 
 
 ### Web development or MVC
 
-[1. AngularJS](https://angularjs.org/)
-[2. ReactJS](https://github.com/facebook/react)
-[3. BackboneJS](http://backbonejs.org/)
-[4. EmberJS](http://emberjs.com/)
+- [AngularJS](https://angularjs.org/)
+- [ReactJS](https://github.com/facebook/react)
+- [BackboneJS](http://backbonejs.org/)
+- [EmberJS](http://emberjs.com/)
