@@ -4,6 +4,7 @@
 ## Framework or Library
 
 - [Web development](#web-development-or-mvc)
+- [Graphics](#graphics)
 
 
 ### Web development or MVC
@@ -12,3 +13,7 @@
 - [React](https://github.com/facebook/react) - A JavaScript Library For Building User Interfaces
 - [Backbone](http://backbonejs.org/) - Backbone.js gives structure to web applications
 - [Ember](http://emberjs.com/) - A framework for creating ambitious web applications.
+
+### Graphics
+
+- [ProcessingJS](http://processingjs.org/)
