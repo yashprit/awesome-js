@@ -3,10 +3,10 @@
 
 ## Framework or Library
 
-[1. Web development](https://github.com/yashprit/awesome-js#framework-or-library)
+[1. Web development](#web-development-or-mvc)
 
 
-## Web development or MVC
+### Web development or MVC
 
 [1. AngularJS](https://angularjs.org/)
 [2. ReactJS](https://github.com/facebook/react)
