@@ -16,4 +16,4 @@
 
 ### Graphics
 
-- [ProcessingJS](http://processingjs.org/)
+- [ProcessingJS](http://processingjs.org/) - A port of the Processing Visualization Language
