@@ -5,11 +5,8 @@
 
 - [Web development](#web-development-or-mvc)
 - [Graphics](#graphics)
-- [Webgl](#webgl)
-- [Game Development](#game-development)
+- [Game Development or Webgl](#game-development-or-webgl)
 - [Charts](#charts)
-- [3D Manipulation](#3d-manipulation)
-
 
 ### Web development or MVC
 
@@ -24,3 +21,9 @@
 ### Graphics
 
 - [ProcessingJS](http://processingjs.org/) - A port of the Processing Visualization Language
+
+### Game Development or Webgl
+
+- [](http://phaser.io/) - A framework for desktop/mobile web browsers, supporting Canvas and WebGL rendering
+
+### Charts
