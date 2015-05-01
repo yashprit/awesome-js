@@ -7,6 +7,9 @@
 - [Graphics](#graphics)
 - [Game Development or Webgl](#game-development-or-webgl)
 - [Charts](#charts)
+- [Miscellaneous](#miscellaneous)
+- [Tutorial or Learning](#tutorial-or-learning)
+- [Just Awesome](#just-awesome)
 
 ### Web development or MVC
 
