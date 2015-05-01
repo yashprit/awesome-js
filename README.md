@@ -24,6 +24,6 @@
 
 ### Game Development or Webgl
 
-- [](http://phaser.io/) - A framework for desktop/mobile web browsers, supporting Canvas and WebGL rendering
+- [Phaser](http://phaser.io/) - A framework for desktop/mobile web browsers, supporting Canvas and WebGL rendering
 
 ### Charts
