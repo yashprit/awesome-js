@@ -5,6 +5,7 @@
 
 - [Web development](#web-development-or-mvc)
 - [Graphics](#graphics)
+- [Parser](#parser)
 - [Game Development or Webgl](#game-development-or-webgl)
 - [Charts](#charts)
 - [Miscellaneous](#miscellaneous)
@@ -24,6 +25,9 @@
 ### Graphics
 
 - [ProcessingJS](http://processingjs.org/) - A port of the Processing Visualization Language
+
+### Parser
+- [PDFJS](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 
 ### Game Development or Webgl
 
