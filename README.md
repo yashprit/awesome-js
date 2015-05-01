@@ -5,6 +5,10 @@
 
 - [Web development](#web-development-or-mvc)
 - [Graphics](#graphics)
+- [Webgl](#webgl)
+- [Game Development](#game-development)
+- [Charts](#charts)
+- [3D Manipulation](#3d-manipulation)
 
 
 ### Web development or MVC
