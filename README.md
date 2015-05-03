@@ -21,6 +21,7 @@
 - [Spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications
 - [Aurelia](https://github.com/aurelia/framework) - A Framework that leverages simple conventions to empower your creativity
 - [Ampersand](http://ampersandjs.com/) - A highly modular, loosely coupled, non-frameworky framework
+- [Knockout](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with Model-View-View Model(MVVM) Pattern
 
 ### Graphics
 
