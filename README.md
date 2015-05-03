@@ -25,6 +25,7 @@
 ### Graphics
 
 - [ProcessingJS](http://processingjs.org/) - A port of the Processing Visualization Language
+- [Raphael](http://raphaeljs.com/) - Simplify your work with vector graphics on the web
 
 ### Parser
 - [PDFJS](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
