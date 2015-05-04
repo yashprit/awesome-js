@@ -27,6 +27,7 @@
 - [ProcessingJS](http://processingjs.org/) - A port of the Processing Visualization Language
 - [Raphael](http://raphaeljs.com/) - Simplify your work with vector graphics on the web
 - [PaperJS](http://paperjs.org/) - The Swiss Army Knife of Vector Graphics Scripting
+- [D3](http://d3js.org/) - JavaScript library for manipulating documents based on data
 
 ### Parser
 - [PDFJS](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
