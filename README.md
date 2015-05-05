@@ -43,3 +43,4 @@
 
 ### Just Awesome
 - [Impress](https://github.com/bartaz/impress.js) - framework based on the power of CSS3 transforms and transitions in modern browsers
+- [Clusterise](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
