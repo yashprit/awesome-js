@@ -25,6 +25,7 @@
 - [Knockout](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with Model-View-View Model(MVVM) Pattern
 
 ### Hybrid Development
+
 - [ionic](http://ionicframework.com/) - Advanced HTML5 mobile development framework and SDK
 
 ### Graphics
@@ -42,9 +43,12 @@
 ### Game Development or Webgl
 
 - [Phaser](http://phaser.io/) - A framework for desktop/mobile web browsers, supporting Canvas and WebGL rendering
+- [three.js](http://threejs.org/) - JavaScript 3D library
 
 ### Charts
 
 ### Just Awesome
+
 - [Impress](https://github.com/bartaz/impress.js) - framework based on the power of CSS3 transforms and transitions in modern browsers
 - [Clusterise](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
+- [semantic-ui](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
