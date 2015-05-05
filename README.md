@@ -29,6 +29,7 @@
 - [Raphael](http://raphaeljs.com/) - Simplify your work with vector graphics on the web
 - [PaperJS](http://paperjs.org/) - The Swiss Army Knife of Vector Graphics Scripting
 - [D3](http://d3js.org/) - JavaScript library for manipulating documents based on data
+- [ChartJS](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 
 ### Parser
 - [PDFJS](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
