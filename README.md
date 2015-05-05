@@ -4,6 +4,7 @@
 ## Framework or Library
 
 - [Web development](#web-development-or-mvc)
+- [Hybrid Development](#hybrid-development)
 - [Graphics](#graphics)
 - [Parser](#parser)
 - [Game Development or Webgl](#game-development-or-webgl)
@@ -22,6 +23,9 @@
 - [Aurelia](https://github.com/aurelia/framework) - A Framework that leverages simple conventions to empower your creativity
 - [Ampersand](http://ampersandjs.com/) - A highly modular, loosely coupled, non-frameworky framework
 - [Knockout](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with Model-View-View Model(MVVM) Pattern
+
+### Hybrid Development
+- [ionic](http://ionicframework.com/) - Advanced HTML5 mobile development framework and SDK
 
 ### Graphics
 
