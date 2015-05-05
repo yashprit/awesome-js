@@ -32,6 +32,7 @@
 - [ChartJS](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 
 ### Parser
+
 - [PDFJS](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 
 ### Game Development or Webgl
@@ -39,3 +40,6 @@
 - [Phaser](http://phaser.io/) - A framework for desktop/mobile web browsers, supporting Canvas and WebGL rendering
 
 ### Charts
+
+### Just Awesome
+- [Impress](https://github.com/bartaz/impress.js) - framework based on the power of CSS3 transforms and transitions in modern browsers
