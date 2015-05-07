@@ -5,7 +5,7 @@
 
 - [Web development](#web-development-or-mvc)
 - [Hybrid Development](#hybrid-development)
-- [Graphics](#graphics)
+- [Graphics](#graphics-or-data-visualization)
 - [Parser](#parser)
 - [Game Development or Webgl](#game-development-or-webgl)
 - [Charts](#charts)
@@ -28,13 +28,14 @@
 
 - [ionic](http://ionicframework.com/) - Advanced HTML5 mobile development framework and SDK
 
-### Graphics
+### Graphics or data visualization
 
 - [ProcessingJS](http://processingjs.org/) - A port of the Processing Visualization Language
 - [Raphael](http://raphaeljs.com/) - Simplify your work with vector graphics on the web
 - [PaperJS](http://paperjs.org/) - The Swiss Army Knife of Vector Graphics Scripting
 - [D3](http://d3js.org/) - JavaScript library for manipulating documents based on data
 - [ChartJS](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
+- [Sigma](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 
 ### Parser
 
