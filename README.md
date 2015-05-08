@@ -37,6 +37,10 @@
 - [ChartJS](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [Sigma](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 
+### Inline Editor
+- [medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
+- [Medium Editor](https://github.com/daviferreira/medium-editor) - Uses contenteditable API to implement a rich text solution.
+
 ### Parser
 
 - [PDFJS](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -53,3 +57,5 @@
 - [Impress](https://github.com/bartaz/impress.js) - framework based on the power of CSS3 transforms and transitions in modern browsers
 - [Clusterise](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
 - [semantic-ui](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
+- [Snap.js](https://github.com/jakiestfu/Snap.js/) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
+- [Behave.js](https://github.com/jakiestfu/Behave.js) - A lightweight, cross browser library for adding IDE style behaviors to plain text areas
