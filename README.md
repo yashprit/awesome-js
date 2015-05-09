@@ -52,6 +52,8 @@
 
 ### Charts
 
+- [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
+
 ### Just Awesome
 
 - [Impress](https://github.com/bartaz/impress.js) - framework based on the power of CSS3 transforms and transitions in modern browsers
