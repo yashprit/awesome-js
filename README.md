@@ -53,6 +53,7 @@
 ### Charts
 
 - [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
+- [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 
 ### Just Awesome
 
