@@ -54,6 +54,11 @@
 
 - [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
 - [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
+- [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag
+- [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts | Github pages
+- [c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library
+- [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
+- [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file
 
 ### Just Awesome
 
