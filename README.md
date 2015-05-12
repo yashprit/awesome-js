@@ -23,6 +23,7 @@
 - [Aurelia](https://github.com/aurelia/framework) - A Framework that leverages simple conventions to empower your creativity
 - [Ampersand](http://ampersandjs.com/) - A highly modular, loosely coupled, non-frameworky framework
 - [Knockout](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with Model-View-View Model(MVVM) Pattern
+- [Riotjs](https://github.com/muut/riotjs) - A React- like, 3.5KB user interface library
 
 ### Hybrid Development
 
