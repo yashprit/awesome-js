@@ -67,3 +67,4 @@
 - [semantic-ui](http://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
 - [Snap.js](https://github.com/jakiestfu/Snap.js/) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
 - [Behave.js](https://github.com/jakiestfu/Behave.js) - A lightweight, cross browser library for adding IDE style behaviors to plain text areas
+- [zoom.js](https://github.com/fat/zoom.js) - Medium's Image Zoom for jQuery
