@@ -4,6 +4,7 @@
 ## Framework or Library
 
 - [Web development](#web-development-or-mvc)
+- [DOM Manipulation](#dom-manipulation)
 - [Hybrid Development](#hybrid-development)
 - [Graphics](#graphics-or-data-visualization)
 - [Parser](#parser)
@@ -24,6 +25,9 @@
 - [Ampersand](http://ampersandjs.com/) - A highly modular, loosely coupled, non-frameworky framework
 - [Knockout](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with Model-View-View Model(MVVM) Pattern
 - [Riotjs](https://github.com/muut/riotjs) - A React- like, 3.5KB user interface library
+
+### DOM Manipulation
+- [jQuery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 
 ### Hybrid Development
 
