@@ -73,3 +73,4 @@
 - [Snap.js](https://github.com/jakiestfu/Snap.js/) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
 - [Behave.js](https://github.com/jakiestfu/Behave.js) - A lightweight, cross browser library for adding IDE style behaviors to plain text areas
 - [zoom.js](https://github.com/fat/zoom.js) - Medium's Image Zoom for jQuery
+- [underscore.js](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
