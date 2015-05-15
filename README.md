@@ -74,3 +74,4 @@
 - [Behave.js](https://github.com/jakiestfu/Behave.js) - A lightweight, cross browser library for adding IDE style behaviors to plain text areas
 - [zoom.js](https://github.com/fat/zoom.js) - Medium's Image Zoom for jQuery
 - [underscore.js](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
+- [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
