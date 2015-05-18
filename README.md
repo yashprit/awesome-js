@@ -13,6 +13,7 @@
 - [Miscellaneous](#miscellaneous)
 - [Tutorial or Learning](#tutorial-or-learning)
 - [Just Awesome](#just-awesome)
+- [Functional Programming](#functional-programming)
 
 ### Web development or MVC
 
