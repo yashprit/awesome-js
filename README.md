@@ -77,3 +77,7 @@
 - [underscore.js](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
+
+
+### Functional JavaScript
+- [Underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
