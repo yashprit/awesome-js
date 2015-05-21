@@ -82,3 +82,4 @@
 ### Functional JavaScript
 - [Underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [Lodash](https://github.com/lodash/lodash/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
+- [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier
