@@ -86,3 +86,4 @@
 - [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier
 
 ### Date
+- [moment](https://github.com/moment/moment/)
