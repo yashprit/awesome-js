@@ -86,4 +86,5 @@
 - [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier
 
 ### Date
-- [moment](https://github.com/moment/moment/)
+- [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript
+- [xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
