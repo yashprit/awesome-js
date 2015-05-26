@@ -89,3 +89,4 @@
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript
 - [xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
 - [Datejs](https://github.com/datejs/Datejs) - A JavaScript Date Library
+- [Timeago](https://github.com/rmm5t/jquery-timeago) - Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps
