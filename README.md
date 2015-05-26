@@ -88,3 +88,4 @@
 ### Date
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript
 - [xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
+- [Datejs](https://github.com/datejs/Datejs) - A JavaScript Date Library
