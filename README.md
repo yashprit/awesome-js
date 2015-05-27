@@ -52,6 +52,9 @@
 ### Parser
 
 - [PDFJS](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+- [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
+- [acorn](https://github.com/marijnh/acorn) - A small, fast, JavaScript-based JavaScript parser
+- [shift-parser-js](https://github.com/shapesecurity/shift-parser-js) - ECMAScript parser that produces a Shift format AST
 
 ### Game Development or Webgl
 
@@ -91,4 +94,3 @@
 - [xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
 - [Datejs](https://github.com/datejs/Datejs) - A JavaScript Date Library
 - [Timeago](https://github.com/rmm5t/jquery-timeago) - Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps
-
