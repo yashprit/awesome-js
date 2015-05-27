@@ -47,6 +47,7 @@
 ### Inline Editor
 - [medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
 - [Medium Editor](https://github.com/daviferreira/medium-editor) - Uses contenteditable API to implement a rich text solution.
+- [Ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 
 ### Parser
 
@@ -90,3 +91,4 @@
 - [xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
 - [Datejs](https://github.com/datejs/Datejs) - A JavaScript Date Library
 - [Timeago](https://github.com/rmm5t/jquery-timeago) - Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps
+
