@@ -29,6 +29,7 @@
 - [Riotjs](https://github.com/muut/riotjs) - A React- like, 3.5KB user interface library
 
 ### DOM Manipulation
+
 - [jQuery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 
 ### Hybrid Development
@@ -45,6 +46,7 @@
 - [Sigma](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 
 ### Inline Editor
+
 - [medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
 - [Medium Editor](https://github.com/daviferreira/medium-editor) - Uses contenteditable API to implement a rich text solution.
 - [Ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
@@ -85,11 +87,13 @@
 
 
 ### Functional JavaScript
+
 - [Underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [Lodash](https://github.com/lodash/lodash/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
 - [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier
 
 ### Date
+
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates in javascript
 - [xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
 - [Datejs](https://github.com/datejs/Datejs) - A JavaScript Date Library
