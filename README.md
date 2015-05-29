@@ -57,6 +57,7 @@
 - [esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [acorn](https://github.com/marijnh/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [shift-parser-js](https://github.com/shapesecurity/shift-parser-js) - ECMAScript parser that produces a Shift format AST
+- [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 
 ### Game Development or Webgl
 
