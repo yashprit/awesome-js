@@ -52,6 +52,7 @@
 - [Ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
+- [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)
 
 ### Parser
 
