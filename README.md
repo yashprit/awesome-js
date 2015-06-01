@@ -50,7 +50,8 @@
 - [medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
 - [Medium Editor](https://github.com/daviferreira/medium-editor) - Uses contenteditable API to implement a rich text solution.
 - [Ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
-- [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor 
+- [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
 
 ### Parser
 
