@@ -90,6 +90,7 @@
 - [underscore.js](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
+- [Tangle](http://worrydream.com/Tangle/) - a JavaScript library for reactive documents
 
 
 ### Functional JavaScript
@@ -109,3 +110,7 @@
 
 - [Math.js](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [Numeral-js](https://github.com/adamwdraper/Numeral-js/) - A javascript library for formatting and manipulating numbers.
+- [numbers.js](https://github.com/numbers/numbers.js) - Advanced Mathematics Library for Node.js and JavaScript
+- [sylvester](https://github.com/jcoglan/sylvester/) - Vector, matrix and geometry math JavaScript
+- [science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript
+- [bignumber.js](https://github.com/MikeMcl/bignumber.js/) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
