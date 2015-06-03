@@ -15,6 +15,7 @@
 - [Just Awesome](#just-awesome)
 - [Functional Programming](#functional-programming)
 - [Date](#date)
+- [Math](#math)
 
 ### Web development or MVC
 
@@ -103,3 +104,8 @@
 - [xdate](https://github.com/arshaw/xdate) - A Modern JavaScript Date Library
 - [Datejs](https://github.com/datejs/Datejs) - A JavaScript Date Library
 - [Timeago](https://github.com/rmm5t/jquery-timeago) - Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps
+
+### Math
+
+- [Math.js](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
+- [Numeral-js](https://github.com/adamwdraper/Numeral-js/) - A javascript library for formatting and manipulating numbers.
