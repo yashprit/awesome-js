@@ -45,6 +45,8 @@
 - [D3](http://d3js.org/) - JavaScript library for manipulating documents based on data
 - [ChartJS](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [Sigma](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
+- [c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library 
+- [nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 
 ### Inline Editor
 
