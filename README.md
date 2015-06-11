@@ -62,7 +62,6 @@
 - [c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library
 - [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 - [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file
-- [ChartJS](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
 - [Sigma](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 - [nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 
