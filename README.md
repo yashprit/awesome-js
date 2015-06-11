@@ -123,3 +123,14 @@
 - [sylvester](https://github.com/jcoglan/sylvester/) - Vector, matrix and geometry math JavaScript
 - [science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js/) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Yashprit Singh](http://yashprit.com) has waived all copyright and related or neighboring rights to this work.
