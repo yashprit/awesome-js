@@ -5,6 +5,8 @@
 
 - [Web development](#web-development-or-mvc)
 - [DOM Manipulation](#dom-manipulation)
+- [Canvas Manipulation](#canvas-manipulation)
+- [SVG Manipulation](#svg-manipulation)
 - [Hybrid Development](#hybrid-development)
 - [Graphics](#graphics-or-data-visualization)
 - [Parser](#parser)
@@ -39,15 +41,30 @@
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI) - Custom Elements-Based HTML5 UI Framework for Building Your Mobile Front End
 - []
 
+### Canvas Manipulation
+
+- [CamanJS](https://github.com/meltingice/CamanJS/) - Javascript HTML5 (Ca)nvas (Man)ipulation http://camanjs.com
+- [PaperJS](http://paperjs.org/) - The Swiss Army Knife of Vector Graphics Scripting
+
+### SVG Manipulation
+
+- [Raphael](http://raphaeljs.com/) - Simplify your work with vector graphics on the web
+
 ### Graphics or data visualization
 
 - [ProcessingJS](http://processingjs.org/) - A port of the Processing Visualization Language
-- [Raphael](http://raphaeljs.com/) - Simplify your work with vector graphics on the web
-- [PaperJS](http://paperjs.org/) - The Swiss Army Knife of Vector Graphics Scripting
 - [D3](http://d3js.org/) - JavaScript library for manipulating documents based on data
-- [ChartJS](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
+
+### Charts
+
+- [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
+- [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
+- [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag
+- [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts | Github pages
+- [c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library
+- [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
+- [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file
 - [Sigma](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
-- [c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library 
 - [nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 
 ### Inline Editor
@@ -72,16 +89,6 @@
 
 - [Phaser](http://phaser.io/) - A framework for desktop/mobile web browsers, supporting Canvas and WebGL rendering
 - [three.js](http://threejs.org/) - JavaScript 3D library
-
-### Charts
-
-- [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
-- [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
-- [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag
-- [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts | Github pages
-- [c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library
-- [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
-- [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file
 
 ### Just Awesome
 
@@ -118,3 +125,14 @@
 - [sylvester](https://github.com/jcoglan/sylvester/) - Vector, matrix and geometry math JavaScript
 - [science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js/) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Yashprit Singh](http://yashprit.com) has waived all copyright and related or neighboring rights to this work.
