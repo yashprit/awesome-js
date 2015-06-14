@@ -40,6 +40,7 @@
 - [ionic](http://ionicframework.com/) - Advanced HTML5 mobile development framework and SDK
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI) - Custom Elements-Based HTML5 UI Framework for Building Your Mobile Front End
 - [mobile-angular-ui](https://github.com/mcasimir/mobile-angular-ui) - Angular.js Mobile UI Framework with Bootstrap 3
+- [app](https://github.com/kikinteractive/app) - Instant mobile web app creation
 
 ### Canvas Manipulation
 
