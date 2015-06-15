@@ -42,6 +42,8 @@
 - [mobile-angular-ui](https://github.com/mcasimir/mobile-angular-ui) - Angular.js Mobile UI Framework with Bootstrap 3
 - [app](https://github.com/kikinteractive/app) - Instant mobile web app creation
 - [jquery-mobile](https://github.com/jquery/jquery-mobile) - jQuery Mobile Framework
+- [Lunga.js](https://github.com/tapquo/Lungo.js) - A framework for developers who want to design, build and share cross device applications.
+- [
 
 ### Canvas Manipulation
 
