@@ -45,6 +45,7 @@
 - [Lunga.js](https://github.com/tapquo/Lungo.js) - A framework for developers who want to design, build and share cross device applications.
 - [The-M-Project](https://github.com/mwaylabs/The-M-Project/) - 'The-M-Project' is a Mobile HTML5 Application Framework. 
 - [Framework7](https://github.com/nolimits4web/framework7/) - Full Featured HTML Framework For Building iOS Apps
+- [jo](https://github.com/davebalmer/jo) - Jo (0.5.0) is a thin (~16K) candy shell for making HTML5 apps.
 
 ### Canvas Manipulation
 
