@@ -47,6 +47,7 @@
 - [Framework7](https://github.com/nolimits4web/framework7/) - Full Featured HTML Framework For Building iOS Apps
 - [jo](https://github.com/davebalmer/jo) - Jo (0.5.0) is a thin (~16K) candy shell for making HTML5 apps.
 - [junior](https://github.com/justspamjustin/junior) - A front-end framework for building html5 mobile apps with a native look and feel.
+- [openui5](https://github.com/SAP/openui5/) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice
 
 ### Canvas Manipulation
 
