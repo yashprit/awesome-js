@@ -49,6 +49,8 @@
 - [junior](https://github.com/justspamjustin/junior) - A front-end framework for building html5 mobile apps with a native look and feel.
 - [openui5](https://github.com/SAP/openui5/) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice
 - [loopback](https://github.com/strongloop/loopback/)
+- [chocolatechip-ui](https://github.com/chocolatechipui/chocolatechip-ui) - Mobile Web App Framework
+- [ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 
 ### Canvas Manipulation
 
