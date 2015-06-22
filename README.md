@@ -34,6 +34,7 @@
 ### DOM Manipulation
 
 - [jQuery](https://github.com/jquery/jquery) - jQuery JavaScript Library
+- [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation
 
 ### Hybrid Development
 
