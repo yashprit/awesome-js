@@ -38,6 +38,7 @@
 - [sizzle](https://github.com/jquery/sizzle) - A sizzlin' hot selector engine.
 - [HTML](https://github.com/nbubna/HTML) - A simple, extensible way to work directly with the DOM.
 - [minified.js](https://github.com/timjansen/minified.js/) - A lightweight library for the Web http://minifiedjs.com
+- [dojo](https://github.com/dojo/dojo) - The Dojo Toolkit core library.
 
 ### Hybrid Development
 
