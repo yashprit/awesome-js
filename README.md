@@ -40,6 +40,7 @@
 - [minified.js](https://github.com/timjansen/minified.js/) - A lightweight library for the Web http://minifiedjs.com
 - [dojo](https://github.com/dojo/dojo) - The Dojo Toolkit core library.
 - [mootools](https://github.com/mootools/mootools-core) - MooTools Core Repository
+- [prototype](https://github.com/sstephenson/prototype) - Prototype JavaScript framework
 
 ### Hybrid Development
 
