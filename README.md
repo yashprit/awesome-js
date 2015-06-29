@@ -41,6 +41,7 @@
 - [dojo](https://github.com/dojo/dojo) - The Dojo Toolkit core library.
 - [mootools](https://github.com/mootools/mootools-core) - MooTools Core Repository
 - [prototype](https://github.com/sstephenson/prototype) - Prototype JavaScript framework
+- [yui3](https://github.com/yui/yui3) - A library for building richly interactive web applications.
 
 ### Hybrid Development
 
