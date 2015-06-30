@@ -30,6 +30,8 @@
 - [Ampersand](http://ampersandjs.com/) - A highly modular, loosely coupled, non-frameworky framework
 - [Knockout](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with Model-View-View Model(MVVM) Pattern
 - [Riotjs](https://github.com/muut/riotjs) - A React- like, 3.5KB user interface library
+- [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
+
 
 ### DOM Manipulation
 
