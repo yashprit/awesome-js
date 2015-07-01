@@ -31,7 +31,8 @@
 - [Knockout](http://knockoutjs.com/) - Simplify dynamic JavaScript UIs with Model-View-View Model(MVVM) Pattern
 - [Riotjs](https://github.com/muut/riotjs) - A React- like, 3.5KB user interface library
 - [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
-
+- [chaplin](https://github.com/chaplinjs/chaplin/) - HTML5 application architecture using Backbone.js
+- [openui5](https://github.com/SAP/openui5/) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice
 
 ### DOM Manipulation
 
