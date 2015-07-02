@@ -129,7 +129,7 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
 - [Tangle](http://worrydream.com/Tangle/) - a JavaScript library for reactive documents
-
+- [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router
 
 ### Functional JavaScript
 
