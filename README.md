@@ -33,6 +33,7 @@
 - [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
 - [chaplin](https://github.com/chaplinjs/chaplin/) - HTML5 application architecture using Backbone.js
 - [openui5](https://github.com/SAP/openui5/) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice
+- [meteor](https://github.com/meteor/meteor/) - Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 
 ### DOM Manipulation
 
