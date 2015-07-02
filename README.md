@@ -64,6 +64,10 @@
 - [chocolatechip-ui](https://github.com/chocolatechipui/chocolatechip-ui) - Mobile Web App Framework
 - [ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 
+### Mobile Related
+- [Swipe](https://github.com/thebird/Swipe) - Swipe is the most accurate touch slider.
+- [Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript 
+
 ### Canvas Manipulation
 
 - [CamanJS](https://github.com/meltingice/CamanJS/) - Javascript HTML5 (Ca)nvas (Man)ipulation http://camanjs.com
