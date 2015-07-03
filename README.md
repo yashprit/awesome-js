@@ -102,6 +102,7 @@
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
 - [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)
+- [EpicEditor](https://github.com/OscarGodson/EpicEditor) - An Embeddable JavaScript Markdown Editor
 
 ### Parser
 
