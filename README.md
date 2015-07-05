@@ -155,6 +155,10 @@
 - [science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js/) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
 
+### Testing
+
+- [testem](https://github.com/airportyh/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
