@@ -158,6 +158,7 @@
 ### Testing
 
 - [testem](https://github.com/airportyh/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun.
+- [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework 
 
 ## Contribute
 
