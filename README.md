@@ -160,6 +160,7 @@
 - [testem](https://github.com/airportyh/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun.
 - [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework 
 - [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
+- [mocha](https://github.com/mochajs/mocha) - mocha - simple, flexible, fun javascript test framework for node.js & the browser.
 
 ## Contribute
 
