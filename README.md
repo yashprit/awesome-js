@@ -163,6 +163,7 @@
 - [mocha](https://github.com/mochajs/mocha) - mocha - simple, flexible, fun javascript test framework for node.js & the browser.
 - [buster](https://github.com/busterjs/buster) - A powerful suite of automated test tools for JavaScript.
 - [phantomjs](https://github.com/ariya/phantomjs/) - Scriptable Headless WebKit 
+- [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing built on top of the Jasmine test framework.
 
 
 ## Contribute
