@@ -162,6 +162,8 @@
 - [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
 - [mocha](https://github.com/mochajs/mocha) - mocha - simple, flexible, fun javascript test framework for node.js & the browser.
 - [buster](https://github.com/busterjs/buster) - A powerful suite of automated test tools for JavaScript.
+- [phantomjs](https://github.com/ariya/phantomjs/) - Scriptable Headless WebKit 
+
 
 ## Contribute
 
