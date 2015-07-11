@@ -88,6 +88,7 @@
 - [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and vector graphics
 - [dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
 - [lumify](https://github.com/lumifyio/lumify) - open source big data integration, analytics, and visualization
+- [recline](https://github.com/okfn/recline) - A simple but powerful library for building data applications in pure Javascript and HTML.
 
 ### Charts
 
