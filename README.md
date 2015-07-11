@@ -82,6 +82,7 @@
 
 - [ProcessingJS](http://processingjs.org/) - A port of the Processing Visualization Language
 - [D3](http://d3js.org/) - JavaScript library for manipulating documents based on data
+- [vega](https://github.com/vega/vega) - A visualization grammar. 
 
 ### Charts
 
