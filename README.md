@@ -83,6 +83,11 @@
 - [ProcessingJS](http://processingjs.org/) - A port of the Processing Visualization Language
 - [D3](http://d3js.org/) - JavaScript library for manipulating documents based on data
 - [vega](https://github.com/vega/vega) - A visualization grammar. 
+- [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
+- [polymaps](https://github.com/simplegeo/polymaps) - Polymaps is a free JavaScript library for making dynamic, interactive maps in modern web browsers.
+- [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and vector graphics
+- [dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
+- [lumify](https://github.com/lumifyio/lumify) - open source big data integration, analytics, and visualization
 
 ### Charts
 
@@ -133,6 +138,7 @@
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
 - [Tangle](http://worrydream.com/Tangle/) - a JavaScript library for reactive documents
 - [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router
+- [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript. 
 
 ### Functional JavaScript
 
