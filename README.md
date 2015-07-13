@@ -8,6 +8,7 @@
 - [Canvas Manipulation](#canvas-manipulation)
 - [SVG Manipulation](#svg-manipulation)
 - [Hybrid Development](#hybrid-development)
+- [Desktop Tool](#desktop-tool)
 - [Graphics](#graphics-or-data-visualization)
 - [Parser](#parser)
 - [Game Development or Webgl](#game-development-or-webgl)
@@ -64,6 +65,9 @@
 - [loopback](https://github.com/strongloop/loopback/)
 - [chocolatechip-ui](https://github.com/chocolatechipui/chocolatechip-ui) - Mobile Web App Framework
 - [ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
+
+### Desktop Tool
+- 
 
 ### Mobile Related
 - [Swipe](https://github.com/thebird/Swipe) - Swipe is the most accurate touch slider.
