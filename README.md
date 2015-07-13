@@ -86,6 +86,21 @@
 
 - [ProcessingJS](http://processingjs.org/) - A port of the Processing Visualization Language
 - [D3](http://d3js.org/) - JavaScript library for manipulating documents based on data
+- [vega](https://github.com/vega/vega) - A visualization grammar. 
+- [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
+- [polymaps](https://github.com/simplegeo/polymaps) - Polymaps is a free JavaScript library for making dynamic, interactive maps in modern web browsers.
+- [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and vector graphics
+- [dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag
+- [lumify](https://github.com/lumifyio/lumify) - open source big data integration, analytics, and visualization
+- [recline](https://github.com/okfn/recline) - A simple but powerful library for building data applications in pure Javascript and HTML.
+- [kartograph.js](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps 
+- [envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization
+- [exhibit](https://github.com/simile-widgets/exhibit) - Publishing Framework for Large-Scale Data-Rich Interactive Web Pages
+- [modestmaps-js](https://github.com/modestmaps/modestmaps-js) - Modest Maps javascript port
+- [jit](https://github.com/philogb/jit) - The JavaScript InfoVis Toolkit provides tools for creating Interactive Data Visualizations for the Web
+- [crossfilter](https://github.com/square/crossfilter) - Fast n-dimensional filtering and grouping of records.
+- [nodebox](https://github.com/nodebox/nodebox) - Interactive, hackable graphic design application 
+
 
 ### Charts
 
@@ -98,6 +113,9 @@
 - [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file
 - [Sigma](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 - [nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
+- [d3.chart](https://github.com/misoproject/d3.chart) - A framework for creating reusable charts with d3.js
+- [arbor](https://github.com/samizdatco/arbor) - a graph visualization library using web workers and jQuery
+- [ol3](https://github.com/openlayers/ol3) - OpenLayers 3
 
 ### Inline Editor
 
@@ -136,6 +154,7 @@
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
 - [Tangle](http://worrydream.com/Tangle/) - a JavaScript library for reactive documents
 - [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router
+- [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript. 
 
 ### Functional JavaScript
 
