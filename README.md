@@ -67,7 +67,7 @@
 - [ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 
 ### Desktop Tool
-- 
+- [electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies
 
 ### Mobile Related
 - [Swipe](https://github.com/thebird/Swipe) - Swipe is the most accurate touch slider.
