@@ -68,6 +68,7 @@
 
 ### Desktop Tool
 - [electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies
+- [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies
 
 ### Mobile Related
 - [Swipe](https://github.com/thebird/Swipe) - Swipe is the most accurate touch slider.
