@@ -157,6 +157,7 @@
 - [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router
 - [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
 - [highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter
+- [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 
 ### Functional JavaScript
 
