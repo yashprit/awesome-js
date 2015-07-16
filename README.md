@@ -155,7 +155,8 @@
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
 - [Tangle](http://worrydream.com/Tangle/) - a JavaScript library for reactive documents
 - [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router
-- [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript. 
+- [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
+- [highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter
 
 ### Functional JavaScript
 
