@@ -136,6 +136,7 @@
 - [shift-parser-js](https://github.com/shapesecurity/shift-parser-js) - ECMAScript parser that produces a Shift format AST
 - [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [jBinary](https://github.com/jDataView/jBinary) - High-level API for working with binary data.
+- [plyr](https://github.com/Selz/plyr) - A simple HTML5, YouTube and Vimeo player
 
 ### Game Development or Webgl
 
@@ -159,7 +160,7 @@
 - [highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter
 - [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 
-### Functional JavaScript
+### Functional Programming
 
 - [Underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [Lodash](https://github.com/lodash/lodash/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
