@@ -49,6 +49,7 @@
 - [mootools](https://github.com/mootools/mootools-core) - MooTools Core Repository
 - [prototype](https://github.com/sstephenson/prototype) - Prototype JavaScript framework
 - [yui3](https://github.com/yui/yui3) - A library for building richly interactive web applications.
+- [DOMx](https://github.com/esha/domx) - Small, extensible library to help you embrace the native DOM in a simple, direct, and very powerful way.
 
 ### Hybrid Development
 
